@@ -12,7 +12,7 @@
     "ext-mbstring": "*",
     "ext-pdo": "*",
     "doctrine/annotations": "^1.0",
-    "doctrine/doctrine-bundle": "2.2.*",
+    "doctrine/doctrine-bundle": "2.3.*",
     "doctrine/doctrine-fixtures-bundle": "3.3.*",
     "doctrine/doctrine-migrations-bundle": "3.1.*",
     "doctrine/orm": "2.6.*",
